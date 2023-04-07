@@ -1,3 +1,3 @@
 # satellite-config-example
 
-Sample repo
+Sample repository
